@@ -3,6 +3,7 @@ export interface Pensamento {
   conteudo: string,
   autoria: string,
   modelo: Modelo,
+  favorito: boolean,
 }
 
 export enum Modelo {
