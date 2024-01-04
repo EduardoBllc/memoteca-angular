@@ -12,21 +12,21 @@
       "conteudo": "Que bom que vc veio",
       "autoria": "Eu",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Que bom que vc veio",
       "autoria": "Eu",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Que bom que vc veio",
       "autoria": "Eu",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 5,
@@ -96,7 +96,7 @@
       "autoria": "Yoda",
       "modelo": "modelo3",
       "id": 18,
-      "favorito": false
+      "favorito": true
     }
   ]
 }
